@@ -17,5 +17,32 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
+	<item>wall_1</item>
+        <item>wall_2</item>
+        <item>wall_3</item>
+        <item>wall_4</item>
+        <item>wall_5</item>
+        <item>wall_6</item>
+    </string-array>
+
+    <string-array name="info" translatable="false">
+<<<<<<< HEAD
+        <item>Customize</item>
+        <item>White</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Purple</item>
+        <item>Hot Pink</item>
+=======
+        <item>The Girl</item>
+        <item>Nothing is Real</item>
+        <item>El Goog</item>
+        <item>City Djungle</item>
+        <item>Singing Bird</item>
+        <item>Juggling Monsters</item>
+        <item>Rocket Launcher</item>
+        <item>Pet Sematary</item>
+        <item>Fallen Cookies</item>
+>>>>>>> d6f59de... Customization of girl color
     </string-array>
 </resources>

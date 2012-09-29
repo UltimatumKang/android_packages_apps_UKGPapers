@@ -17,6 +17,21 @@
 
 <resources>
 
-    <style name="AppTheme" parent="android:Theme" />
+    <string-array name="solid_colors">
+        <item>@string/red</item>
+        <item>@string/green</item>
+        <item>@string/blue</item>
+        <item>@string/purple</item>
+        <item>@string/orange</item>
+        <item>@string/white</item>
+        <item>@string/black</item>
+    </string-array>
+
+    <string-array name="customize_colors">
+        <item>@string/orange</item>
+        <item>@string/purple</item>
+        <item>@string/blue</item>
+        <item>@string/white</item>
+    </string-array>
 
 </resources>
