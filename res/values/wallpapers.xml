@@ -26,23 +26,11 @@
     </string-array>
 
     <string-array name="info" translatable="false">
-<<<<<<< HEAD
         <item>Customize</item>
         <item>White</item>
         <item>Green</item>
         <item>Blue</item>
         <item>Purple</item>
         <item>Hot Pink</item>
-=======
-        <item>The Girl</item>
-        <item>Nothing is Real</item>
-        <item>El Goog</item>
-        <item>City Djungle</item>
-        <item>Singing Bird</item>
-        <item>Juggling Monsters</item>
-        <item>Rocket Launcher</item>
-        <item>Pet Sematary</item>
-        <item>Fallen Cookies</item>
->>>>>>> d6f59de... Customization of girl color
     </string-array>
 </resources>
